@@ -1,6 +1,5 @@
 return {
     {0, 'Bandit', {'StartQuest', 'BanditQuest1', 1}, 'Windmill'},
-    {0, 'Trainee', {'StartQuest', 'MarineQuest', 1}, 'MarineBase'},
     {10, 'Monkey', {'StartQuest', 'JungleQuest', 1}, 'Jungle'},
     {15, 'Gorilla', {'StartQuest', 'JungleQuest', 2}, 'Jungle'},
     {30, 'Pirate', {'StartQuest', 'BuggyQuest1', 1}, 'Pirate'},
